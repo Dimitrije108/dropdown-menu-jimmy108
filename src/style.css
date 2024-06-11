@@ -1,0 +1,8 @@
+.dropdown-menu {
+  position: absolute;
+  visibility: hidden;
+}
+
+.visible {
+  visibility: visible;
+}
